@@ -7,6 +7,9 @@ Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This re
 
 This repository is organized into different sections based on DSA topics. Each section contains detailed explanations, pseudocode, code implementations in Python.
 
+- ![image](https://github.com/user-attachments/assets/5ce0e895-7d20-46d9-ba1b-5fc9768f4b85)
+
+
 
 ## 🛠️ How to Use This Repository
 
