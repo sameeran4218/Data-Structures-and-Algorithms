@@ -1,30 +1,62 @@
+<div align="center">
 
-# 📚 DSA Notes Repository
+# 📚 DSA Notes and Leetcode Solutions
 
-Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This repository is a collection of my personal notes, resources, and problem-solving approaches for DSA, which I update daily. It contains all problems solved from the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). It serves as a study resource for myself and anyone else interested in improving their understanding of DSA concepts.
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/opPHET3u6l/)
 
-## 📖 What’s Inside
+</div>
 
-This repository is organized into different sections based on DSA topics. Each section contains detailed explanations, pseudocode, code implementations in Python.
+A comprehensive collection of Data Structures and Algorithms notes, solutions, and implementations. This repository contains solutions from Striver's A2Z DSA Sheet and various LeetCode problems, organized by topic for easy reference.
 
-- ![image](https://github.com/user-attachments/assets/5ce0e895-7d20-46d9-ba1b-5fc9768f4b85)
+## 📋 Topics Covered
+
+<div align="center">
+
+| 🗂️ **Core Data Structures** | 🧮 **Algorithms & Techniques** | 🔬 **Advanced Topics** |
+|:---:|:---:|:---:|
+| Arrays and Strings | Binary Search | Graphs |
+| Linked Lists | Sorting | Range Queries |
+| Stacks & Queues | Two Pointers | Mathematical Concepts |
+| Binary Trees | Sliding Window | |
+| Binary Search Trees | Recursion and Backtracking | |
+| Heaps | Dynamic Programming | |
+| Hash Tables - Sets and Maps | Greedy Algorithm | |
+| | Bit Manipulation | |
+
+</div>
+
+## ScreenShot
+
+![Screenshot 2025-06-11 194833](https://github.com/user-attachments/assets/b48c4467-c050-4f71-a2ac-7191e172516a)
 
 
+## 📁 Repository Structure
 
-## 🛠️ How to Use This Repository
+Each topic is organized in its own Jupyter notebook containing:
 
-1. **Explore the Notes**  
-   Browse through the folders to find notes on specific topics. Each folder is dedicated to a particular DSA concept and contains explanations and code snippets for a better understanding of the topic.
+- **Problem Statements** - Clear problem descriptions
+- **Solution Approaches** - Multiple solving strategies where applicable  
+- **Python Implementations** - Clean, commented code
+- **Complexity Analysis** - Time and space complexity breakdowns
+- **Notes & Insights** - Key concepts and problem-solving patterns
 
-2. **Follow the Updates**  
-   Since I update the repository daily, feel free to check back often for new notes and enhancements.
+## 🎯 Content Sources
 
-3. **Contributions**  
-   This is my personal collection, but if you find mistakes or have suggestions, feel free to submit a pull request. Any form of constructive feedback is appreciated!
+- **Striver's A2Z DSA Sheet** - Comprehensive problem set covering all major DSA topics
+- **LeetCode Problems** - Additional practice problems with detailed solutions
+- **Personal Notes** - Conceptual explanations and problem-solving techniques
 
-## 🔄 Daily Updates
+## 🚀 How to Use
 
-I follow a structured study routine where I add new notes and refine existing ones on a daily basis. You can check out the `commits` section for the latest updates to the notes.
+1. **Browse by Topic** - Navigate to the relevant `.ipynb` file for your area of study
+2. **Follow the Structure** - Each notebook progresses from basic to advanced concepts
+3. **Practice Along** - Use the implementations as reference while solving problems yourself
+4. **Review Regularly** - Revisit topics to reinforce understanding
 
+## 📈 Progress Tracking
 
-### ⭐ If you find these notes helpful, please consider giving this repo a star!
+This repository is updated regularly with new problems and refined solutions. Each notebook represents an ongoing collection of learning materials.
+
+---
+
+⭐ **Found this helpful?** Consider starring the repository to bookmark it for future reference.
