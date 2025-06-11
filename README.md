@@ -1,7 +1,7 @@
 
 # 📚 DSA Notes Repository
 
-Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This repository is a collection of my personal notes, resources, and problem-solving approaches for DSA, which I update daily. It contains all problems solved from the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). It serves as a study resource for myself and anyone else interested in improving their understanding of DSA concepts.
+Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This repository is a collection of my personal notes, resources, and problem-solving approaches for DSA, which I update daily. It contains all problems solved from the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). It also contains all Leetcode problems i have solved till now. It serves as a study resource for myself and anyone else interested in improving their understanding of DSA concepts.
 
 ## 📖 What’s Inside
 
