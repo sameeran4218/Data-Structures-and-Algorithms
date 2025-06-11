@@ -1,37 +1,78 @@
-<div align="center">
-  <h1>📚 DSA Notes Repository</h1>
-  
-  <div>
-    <a href="https://leetcode.com/your_username_here/">
-      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-    </a>
-  </div>
-</div>
+# 📚 DSA Notes Repository
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/opPHET3u6l/)
+
+A comprehensive collection of Data Structures and Algorithms notes, solutions, and implementations. This repository contains solutions from Striver's A2Z DSA Sheet and various LeetCode problems, organized by topic for easy reference.
+
+## 📋 Topics Covered
+
+<table>
+<tr>
+<td>
+
+**Core Data Structures**
+- Arrays and Strings
+- Linked Lists  
+- Stacks & Queues
+- Binary Trees
+- Binary Search Trees
+- Heaps
+- Hash Tables - Sets and Maps
+
+</td>
+<td>
+
+**Algorithms & Techniques**
+- Binary Search
+- Sorting
+- Two Pointers
+- Sliding Window
+- Recursion and Backtracking
+- Dynamic Programming
+- Greedy Algorithm
+- Bit Manipulation
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**Advanced Topics**
+- Graphs
+- Range Queries
+- Mathematical Concepts
+
+</td>
+</tr>
+</table>
+
+## 📁 Repository Structure
+
+Each topic is organized in its own Jupyter notebook containing:
+
+- **Problem Statements** - Clear problem descriptions
+- **Solution Approaches** - Multiple solving strategies where applicable  
+- **Python Implementations** - Clean, commented code
+- **Complexity Analysis** - Time and space complexity breakdowns
+- **Notes & Insights** - Key concepts and problem-solving patterns
+
+## 🎯 Content Sources
+
+- **Striver's A2Z DSA Sheet** - Comprehensive problem set covering all major DSA topics
+- **LeetCode Problems** - Additional practice problems with detailed solutions
+- **Personal Notes** - Conceptual explanations and problem-solving techniques
+
+## 🚀 How to Use
+
+1. **Browse by Topic** - Navigate to the relevant `.ipynb` file for your area of study
+2. **Follow the Structure** - Each notebook progresses from basic to advanced concepts
+3. **Practice Along** - Use the implementations as reference while solving problems yourself
+4. **Review Regularly** - Revisit topics to reinforce understanding
+
+## 📈 Progress Tracking
+
+This repository is updated regularly with new problems and refined solutions. Each notebook represents an ongoing collection of learning materials.
 
 ---
 
-Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This repository is a collection of my personal notes, resources, and problem-solving approaches for DSA, which I update daily. It contains all problems solved from the [Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). It also contains all Leetcode problems i have solved till now. It serves as a study resource for myself and anyone else interested in improving their understanding of DSA concepts.
-
-## 📖 Contents
-
-<div style="background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 10px 0;">
-✔️ <strong>Structured notes</strong> on core DSA concepts<br>
-✔️ <strong>Solutions</strong> to problems from Striver's A2Z DSA Sheet<br>
-✔️ <strong>LeetCode</strong> problem solutions<br>
-✔️ Organized by topic with clear documentation
-</div>
-
-<br>
-- ![image](https://github.com/user-attachments/assets/5ce0e895-7d20-46d9-ba1b-5fc9768f4b85)
-
-
-## Usage
-1. Browse folders by topic (Arrays, Linked Lists, Trees, etc.)
-2. Each contains:
-   - Problem statements
-   - Solution approaches
-   - Python implementations
-   - Time/space complexity analysis
-
-
-### ⭐ If you find these notes helpful, please consider giving this repo a star!
+⭐ **Found this helpful?** Consider starring the repository to bookmark it for future reference.
