@@ -25,6 +25,9 @@ A comprehensive collection of Data Structures and Algorithms notes, solutions, a
 
 </div>
 
+![Screenshot 2025-06-11 194833](https://github.com/user-attachments/assets/b48c4467-c050-4f71-a2ac-7191e172516a)
+
+
 ## 📁 Repository Structure
 
 Each topic is organized in its own Jupyter notebook containing:
