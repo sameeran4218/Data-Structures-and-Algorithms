@@ -25,9 +25,12 @@ Welcome to my **Data Structures and Algorithms (DSA)** Notes Repository! This re
 
 
 ## Usage
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;"> <div style="width: 48%; background: #f8f9fa; padding: 10px; border-radius: 5px; margin-bottom: 10px;"> <h4>🔍 Find Solutions</h4> <p>Browse by topic folder or use GitHub search</p> </div> <div style="width: 48%; background: #f8f9fa; padding: 10px; border-radius: 5px; margin-bottom: 10px;"> <h4>📝 Study Notes</h4> <p>Each concept includes explanations and examples</p> </div> </div>
-<div align="center"> <em>Regularly updated with new solutions and notes</em><br><br> <a href="https://github.com/yourusername/your-repo/stargazers"> <img src="https://img.shields.io/github/stars/yourusername/your-repo?style=social" alt="GitHub Stars"> </a> </div> ```
+1. Browse folders by topic (Arrays, Linked Lists, Trees, etc.)
+2. Each contains:
+   - Problem statements
+   - Solution approaches
+   - Python implementations
+   - Time/space complexity analysis
 
 
 ### ⭐ If you find these notes helpful, please consider giving this repo a star!
