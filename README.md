@@ -1,50 +1,29 @@
+<div align="center">
+
 # 📚 DSA Notes Repository
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/opPHET3u6l/)
+
+</div>
 
 A comprehensive collection of Data Structures and Algorithms notes, solutions, and implementations. This repository contains solutions from Striver's A2Z DSA Sheet and various LeetCode problems, organized by topic for easy reference.
 
 ## 📋 Topics Covered
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-**Core Data Structures**
-- Arrays and Strings
-- Linked Lists  
-- Stacks & Queues
-- Binary Trees
-- Binary Search Trees
-- Heaps
-- Hash Tables - Sets and Maps
+| 🗂️ **Core Data Structures** | 🧮 **Algorithms & Techniques** | 🔬 **Advanced Topics** |
+|:---:|:---:|:---:|
+| Arrays and Strings | Binary Search | Graphs |
+| Linked Lists | Sorting | Range Queries |
+| Stacks & Queues | Two Pointers | Mathematical Concepts |
+| Binary Trees | Sliding Window | |
+| Binary Search Trees | Recursion and Backtracking | |
+| Heaps | Dynamic Programming | |
+| Hash Tables - Sets and Maps | Greedy Algorithm | |
+| | Bit Manipulation | |
 
-</td>
-<td>
-
-**Algorithms & Techniques**
-- Binary Search
-- Sorting
-- Two Pointers
-- Sliding Window
-- Recursion and Backtracking
-- Dynamic Programming
-- Greedy Algorithm
-- Bit Manipulation
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**Advanced Topics**
-- Graphs
-- Range Queries
-- Mathematical Concepts
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 📁 Repository Structure
 
